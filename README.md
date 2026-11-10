@@ -1,6 +1,6 @@
 # fiches-v7-outils
 
-Scripts de contrôle des portraits anniversaire-celebrite.com (charte v7m).
+Scripts de contrôle des portraits
 Téléchargés à chaque session pour éviter de les recopier, ce qui coûte des tokens.
 
 - `lint_portrait.py` : contrôle de la fiche de travail `<slug>.json` (charte v7m, modes personne et fiction).
